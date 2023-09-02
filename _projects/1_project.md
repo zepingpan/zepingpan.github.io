@@ -2,7 +2,7 @@
 layout: page
 title: Teaching Assistant - Executive MBA program
 description: Finance course 2021, 2022
-img: assets/img/chicago1.jpg
+img: assets/img/chicago.jpg
 importance: 1
 category: work
 related_publications: 

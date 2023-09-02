@@ -1,7 +1,7 @@
 ---
 layout: page
 title: research grant presentation
-description: Consequences of Financial Statement Comparability in Extractive Industries Pre- and Post IFRS Adoption
+description:
 img: assets/img/ifrs.jpg
 importance: 3
 category: fun

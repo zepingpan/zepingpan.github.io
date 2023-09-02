@@ -1,12 +1,14 @@
 ---
 layout: page
-title: project 1
-description: Chicago Booth
-img: assets/img/chicago.jpg
+title: Teaching Assistant - Executive MBA program
+description: Finance course 2021, 2022
+img: assets/img/chicago1.jpg
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: 
 ---
+
+WRITE HERE WHAT YOU DID
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

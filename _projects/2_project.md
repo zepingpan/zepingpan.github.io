@@ -1,12 +1,13 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Teacher
+description:  Course name 2020, 2021, 2022
 img: assets/img/stockholm.jpg
 importance: 2
 category: work
 giscus_comments: true
 ---
+WRITE HERE
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

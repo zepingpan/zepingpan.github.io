@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: Phd presentation
+description: 
+img: assets/img/amsterdam.jpg
 importance: 4
 category: fun
 ---

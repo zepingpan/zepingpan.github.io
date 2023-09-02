@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: PhD presentation
+description: eaa annual conference Helsinki 2023
+img: assets/img/eaa.jpg
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

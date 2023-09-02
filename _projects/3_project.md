@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: conference  
+description: Presenting at the Department of Accounting and Operations Management
+img: assets/img/oslo.jpg
 redirect: https://unsplash.com
 importance: 3
 category: work

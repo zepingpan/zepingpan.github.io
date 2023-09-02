@@ -1,15 +1,11 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Welcome to my teaching portfolio. I have been committed to the pursuit and dissemination of knowledge in Financial reporting for over 5 years, and this section aims to provide a glimpse into my classroom experience, teaching philosophy, and pedagogical approaches.
+permalink: /teaching and presentations/
+title: teaching and presentations
+description: Welcome to my teaching and presentations portfolio. I have been committed to the pursuit and dissemination of knowledge in Financial reporting for over 5 years, and this section aims to provide a glimpse into my classroom experience, teaching philosophy, and pedagogical approaches.
 nav: true
 nav_order: 3
 ---
-
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
 
 <!-- pages/projects.md -->
 <div class="projects">

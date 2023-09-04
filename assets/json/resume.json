@@ -1,74 +1,86 @@
 {
   "basics": {
     "name": "Zeping Pan",
-    "label": "Scientist",
+    "label": "PhD student",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "zeping.pan@phdstudent.hhs.se",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "zepingpan.com",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Sveavägen 65",
+      "postalCode": "SE-113 83",
+      "city": "Stockholm",
+      "countryCode": "Sweden",
+      "region": "Stockholm County"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkedin",
+        "username": "Zeping Pan",
+        "url": "https://www.linkedin.com/in/zeping-pan-00081a152/?originalSubdomain=se"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Department of Accounting",
+      "position": "Doctoral position",
+      "url": "https://www.hhs.se/en/Research/Departments/DA/",
+      "startDate": "2019-09",
+      "endDate": "2024-06",
+      "summary": "While pursuing my doctoral studies I have been teaching and giving lectures on campus.",
       "highlights": [
-        "Relativity"
+        "Financial reporting"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
+      "institution": "Stockholm School of Economics, Sweden",
+      "url": "https://www.hhs.se/",
+      "area": "Accounting",
+      "studyType": "Master of Science",
+      "startDate": "2018",
+      "endDate": "2020",
+      "score": "4.5/5",
       "courses": [
-        "Theory of Relativity"
+        "Accounting, Valuation and Financial Management"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Honors list",
+      "date": "2019-08",
+      "awarder": "Stockholm School of Economics",
+      "summary": "The list is signed off by SSE President Lars Strannegård for those being one of the best performing students, completing their studies within the academic year and receiving a top GPA."
     }
   ],
-  "certificates": [],
+  "certificates": [
+    {
+      "name": "The Association of Chartered Certified Accountants"
+    }
+  ],
   "publications": [],
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
-      "fluency": "Fluent"
+      "fluency": "Professional working proficiency"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Limited working proficiency"
+    },
+    {
+      "language": "Swedish",
+      "fluency": "Elementary proficiency"
     }
   ],
   "interests": [],

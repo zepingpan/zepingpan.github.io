@@ -25,9 +25,8 @@ My current research project delves into the economic consequences of financial r
 
 I’m thrilled to be a part of a vibrant community of scholars and professionals. If my research interests align with yours, or if you’re curious to explore collaborative opportunities, please feel free to get in touch.
 
-Thank you for visiting my site.
-
-Best regards, Zeping Pan
+Thank you for visiting my site,  
+Zeping Pan
 
 <!--The code is already in, just name your picture `Zeping_pic.jpg` and put it in the `img/` folder.
 

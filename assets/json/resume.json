@@ -26,25 +26,27 @@
   "volunteer": [],
   "education": [
     {
-      "name": "Department of Accounting",
-      "position": "Doctoral position",
-      "url": "https://www.hhs.se/en/Research/Departments/DA/",
-      "startDate": "2019-09",
-      "endDate": "2024-06",
-      "summary": "While pursuing my doctoral studies I have been teaching and giving lectures on campus.",
-      "highlights": [
-        "Financial reporting","IFRS","Sustainability","Extractive industries"
-      ]
+      "institution": "Stockholm School of Economics",
+      "url": "https://www.hhs.se/",
+      "studyType": "PhD, Accounting",
+      "startDate": "2019",
+      "endDate": "2024"
     },
     {
-      "institution": "Stockholm School of Economics, Sweden",
+      "institution": "Bocconi University",
+      "url": "https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/",
+      "studyType": "Visiting PhD",
+      "startDate": "2018.5",
+      "singleYear": "2023"
+    },
+    {
+      "institution": "Stockholm School of Economics",
       "url": "https://www.hhs.se/",
-      "area": "Accounting, Valuation, and Financial Management",
-      "studyType": "Master of Science",
+      "area": "with Honor",
+      "studyType": "MSc, Accounting, Valuation, and Financial Management",
       "startDate": "2018",
       "endDate": "2020",
       "score": "4.5/5"
-
     }
   ],
   "awards": [],

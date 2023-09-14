@@ -15,15 +15,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I’m Zeping Pan, a Ph.D. student in the Department of Accounting, and I’m delighted that you’ve taken the time to explore my academic and professional journey. Since joining the department in September 2019, I’ve been deeply involved in research that aims to elucidate the complex interplay between financial reporting and economic outcomes, particularly within the extractive industry.
+Welcome to my personal website! I am a PhD student in Accounting at **The Stockholm School of Economics**. I am expecting to complete my PhD in 2024 and am actively exploring new opportunities.
 
-My academic roots are anchored in an M.Sc. in Accounting, Valuation, and Financial Management, which I earned from the prestigious Stockholm School of Economics (SSE). This educational background has been foundational in shaping my research interests and equipping me with the analytical tools necessary for rigorous scholarly investigation.
+My research interests lie in the economics of disclosure and financial reporting regulations. My PhD project explores the economic implications of different disclosure and financial reporting regulations within the extractive industries, encompassing the exploration, development, and extraction of minerals, oil, and natural gas. I am also interested in firms’ sustainability disclosures and practices and am an aﬀiliated researcher at the Mistra Center for Sustainable Markets in Stockholm.
 
-Complementing my academic background is my status as an ACCA certified accountant. This professional designation not only certifies my expertise in accounting practices but also enriches my research by providing a real-world perspective on financial reporting’s impact on business and industry.
+Since 2019, I have been teaching financial accounting and corporate finance at both the Stockholm School of Economics and Chicago University, Booth School of Business.
 
-My current research project delves into the economic consequences of financial reporting in the extractive industry, a sector fraught with both opportunities and challenges. I am excited about the potential implications of this research for policy-making, industry practices, and the academic literature on financial reporting.
-
-I’m thrilled to be a part of a vibrant community of scholars and professionals. If my research interests align with yours, or if you’re curious to explore collaborative opportunities, please feel free to get in touch.
+Prior to embarking on my PhD journey, I garnered professional experience in auditing, equity research, and financial consulting. I received an ACCA accountant fellowship in 2017.
 
 Thank you for visiting my site,  
 Zeping Pan

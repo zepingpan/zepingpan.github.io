@@ -4,7 +4,7 @@
     "label": "PhD student",
     "image": "",
     "email": "zeping.pan@phdstudent.hhs.se",
-    "phone": "(912) 123-4567",
+    "phone": "(46) 73-635-91-01",
     "url": "zepingpan.com",
     "summary": "",
     "location": {
@@ -22,7 +22,9 @@
       }
     ]
   },
-  "work": [
+  "work": [],
+  "volunteer": [],
+  "education": [
     {
       "name": "Department of Accounting",
       "position": "Doctoral position",
@@ -31,33 +33,21 @@
       "endDate": "2024-06",
       "summary": "While pursuing my doctoral studies I have been teaching and giving lectures on campus.",
       "highlights": [
-        "Financial reporting"
+        "Financial reporting","IFRS","Sustainability","Extractive industries"
       ]
-    }
-  ],
-  "volunteer": [],
-  "education": [
+    },
     {
       "institution": "Stockholm School of Economics, Sweden",
       "url": "https://www.hhs.se/",
-      "area": "Accounting",
+      "area": "Accounting, Valuation, and Financial Management",
       "studyType": "Master of Science",
       "startDate": "2018",
       "endDate": "2020",
-      "score": "4.5/5",
-      "courses": [
-        "Accounting, Valuation and Financial Management"
-      ]
+      "score": "4.5/5"
+
     }
   ],
-  "awards": [
-    {
-      "title": "Honors list",
-      "date": "2019-08",
-      "awarder": "Stockholm School of Economics",
-      "summary": "The list is signed off by SSE President Lars Strannegård for those being one of the best performing students, completing their studies within the academic year and receiving a top GPA."
-    }
-  ],
+  "awards": [],
   "certificates": [
     {
       "name": "The Association of Chartered Certified Accountants"

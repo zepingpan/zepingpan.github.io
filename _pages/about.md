@@ -19,7 +19,7 @@ Welcome to my personal website! I am a PhD student in Accounting at the **Stockh
 
 My research interests lie in the economics of disclosure and financial reporting regulations. My PhD project explores the economic implications of different disclosure and financial reporting regulations within the extractive industries, encompassing the exploration, development, and extraction of minerals, oil, and natural gas. I am also interested in firms’ sustainability disclosures and practices and am an affiliated researcher at the Mistra Center for Sustainable Markets in Stockholm.
 
-Since 2019, I have been teaching financial accounting and corporate finance at both the Stockholm School of Economics and Chicago University, Booth School of Business.
+Since 2021, I have been teaching financial accounting and corporate finance at both the Stockholm School of Economics and Chicago University, Booth School of Business.
 
 Prior to embarking on my PhD journey, I garnered professional experience in auditing, equity research, and financial consulting. I received an ACCA accountant fellowship in 2017.
 

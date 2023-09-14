@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='https://www.hhs.se/'>Stockholm School of Economics</a>.  Stockholm, Sweden
 profile:
   align: right
-  image: Zeping_pic.jpg
+  image: Zeping004_websize.jpg
   image_circular: false # crops the image to make it circular
   address: 
 
@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my personal website! I am a PhD student in Accounting at **The Stockholm School of Economics**. I am expecting to complete my PhD in 2024 and am actively exploring new opportunities.
+Welcome to my personal website! I am a PhD student in Accounting at the **Stockholm School of Economics**. I am expecting to complete my PhD in 2024 and am actively exploring new opportunities.
 
 My research interests lie in the economics of disclosure and financial reporting regulations. My PhD project explores the economic implications of different disclosure and financial reporting regulations within the extractive industries, encompassing the exploration, development, and extraction of minerals, oil, and natural gas. I am also interested in firms’ sustainability disclosures and practices and am an affiliated researcher at the Mistra Center for Sustainable Markets in Stockholm.
 

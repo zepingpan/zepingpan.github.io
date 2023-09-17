@@ -4,8 +4,6 @@
     "label": "PhD student",
     "image": "",
     "email": "zeping.pan@phdstudent.hhs.se",
-    "phone": "(46) 73-635-91-01",
-    "url": "zepingpan.com",
     "summary": "",
     "location": {
       "address": "Sveavägen 65",
@@ -17,11 +15,11 @@
     "profiles": [
       {
         "network": "Linkedin",
-        "username": "Zeping Pan",
-        "url": "https://www.linkedin.com/in/zeping-pan-00081a152/?originalSubdomain=se"
+        "username": "Zeping Pan"
       }
     ]
   },
+  "publications": [],
   "work": [],
   "volunteer": [],
   "education": [
@@ -52,10 +50,9 @@
   "awards": [],
   "certificates": [
     {
-      "name": "The Association of Chartered Certified Accountants"
+      "name": "ACCA, CFA level 2"
     }
   ],
-  "publications": [],
   "skills": [],
   "languages": [
     {
@@ -76,6 +73,6 @@
     }
   ],
   "interests": [],
-  "references": [],
-  "projects": []
+  "references": []
+
 }

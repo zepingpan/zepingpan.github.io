@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='https://www.hhs.se/'>Stockholm School of Economics</a>.  Stockholm, Sweden
 profile:
   align: right
-  image: android-chrome-512x512.png
+  image: Zeping004_websize.jpg
   image_circular: false # crops the image to make it circular
   address: 
 

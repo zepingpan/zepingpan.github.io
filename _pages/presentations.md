@@ -20,8 +20,7 @@ nav_order: 2
 * Causal Inference Workshop at Northwestern University
 * IAAER and KPMG Research Conference
 * IAAER World Congress
-* Scandinavian Accounting Research Conference
-* Stockholm School of Economics 
+* Scandinavian Accounting Research Conference 
 
 **2021:**  
 * European Accounting Association (EAA) Annual Congress

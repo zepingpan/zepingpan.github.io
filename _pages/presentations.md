@@ -13,9 +13,9 @@ nav_order: 2
 * European Accounting Association (EAA) Doctoral Colloquium
 * FIRE Workshop
 * Nordic Accounting Conference (Scheduled)
-<!-- Norwegian School of Economics (Scheduled) -->
+* Norwegian School of Economics (Scheduled) 
 * Scandinavian Accounting Research Conference, Doctoral Consortium
-* The 3rd Accounting PhD and Young Scholars Conference (Scheduled)
+* The 3rd Accounting PhD and Young Scholars Conference 
 * The 9th Workshop on Accounting and Regulation
 
 

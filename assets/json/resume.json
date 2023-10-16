@@ -31,6 +31,12 @@
       "endDate": "2024"
     },
     {
+      "institution": "Stanford University",
+      "studyType": "Visiting PhD",
+      "startDate": "2018.7",
+      "singleYear": "2024"
+    },
+    {
       "institution": "Bocconi University",
       "url": "https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/",
       "studyType": "Visiting PhD",
@@ -40,7 +46,7 @@
     {
       "institution": "Stockholm School of Economics",
       "url": "https://www.hhs.se/",
-      "area": "with Honor",
+      "area": "Dean's list",
       "studyType": "MSc in Accounting, Valuation & Financial Management",
       "startDate": "2018",
       "endDate": "2020",

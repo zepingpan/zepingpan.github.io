@@ -6,15 +6,26 @@ description:
 nav: true
 nav_order: 2
 ---
+**2024:**
+* Seminar at Bristol University
+* Seminar at Hanken Business School
+* Seminar at KU Leuven
+* Seminar at Manchester University
+* Seminar at NEOMA Business School
+* Seminar at SKEMA Business School
+* Seminar at Stanford University
 
 **2023:**
 * American Accounting Association (AAA) Annual Congress
 * European Accounting Association (EAA) Annual Congress
 * European Accounting Association (EAA) Doctoral Colloquium
 * FIRE Workshop
-* Nordic Accounting Conference (Scheduled)
-* Norwegian School of Economics (Scheduled) 
+* Nordic Accounting Conference
 * Scandinavian Accounting Research Conference, Doctoral Consortium
+* Seminar at CUNEF
+* Seminar at ESCP Business School
+* Seminar at Norwegian School of Economics
+* Seminar at Pompeu Fabra University
 * The 3rd Accounting PhD and Young Scholars Conference 
 * The 9th Workshop on Accounting and Regulation
 

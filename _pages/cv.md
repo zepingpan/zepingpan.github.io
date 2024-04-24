@@ -5,6 +5,6 @@ title: cv
 nav: true
 nav_order: 4
 toc: false 
-cv_pdf: CV_ZEPINGPAN.pdf
+cv_pdf: CV_empty.pdf
 description: Please press the top pdf download button for the full resume.
 ---

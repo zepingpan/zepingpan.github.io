@@ -2,11 +2,24 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: I have taught and I am particularly interested in teaching Corporate Finance and Strategy and Financial Accounting courses.
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+**University of Chicago Booth School of Business**
+* Teaching assistant - Financial Strategy (EMBA, 2022 - 2023)
+  * Teaching evaluation: 4.7 / 5.0
 
-Organize your courses by years, topics, or universities, however you like!
+**Stockholm School of Economics**
+* Instructor - Accounting and Financial Statement Analysis (MSc, 2023)
+  * Teaching evaluation: 6.7 / 7.0
+* Instructor - Retail Accounting and Financial Management (BSc, 2021 - 2023)
+  * Teaching evaluation: 6.0 / 7.0
+
+
+
+
+
+
+

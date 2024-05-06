@@ -1,25 +1,36 @@
 ---
 layout: about
-title: about
+title: profile
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
+subtitle: <a href='https://www.hhs.se/'>Stockholm School of Economics</a>.  Stockholm, Sweden
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Zeping004_websize.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: 
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my personal website! I am a PhD student in Accounting at the **Stockholm School of Economics**. I am expecting to complete my PhD in 2024 and am actively exploring new opportunities.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests lie in the economics of disclosure and financial reporting regulations. Drawing from the economically and environmentally significant extractive industries, encompassing the exploration, development, and extraction of minerals, oil, and natural gas, my PhD projects investigate the interactions between regulators and standard setters, firms, and auditors and their overall impact on the level of disclosure in the market. I am also interested in firms’ sustainability disclosures and practices and am an affiliated researcher at the Mistra Center for Sustainable Markets in Stockholm.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Since 2021, I have been teaching financial accounting and corporate finance at both the Stockholm School of Economics and University of Chicago Booth School of Business.
+
+Prior to embarking on my PhD journey, I garnered professional experience in auditing, equity research, and financial consulting. I received an ACCA accountant fellowship in 2017.
+
+Thank you for visiting my site,  
+Zeping Pan
+
+<!--The code is already in, just name your picture `Zeping_pic.jpg` and put it in the `img/` folder.
+
+Put your address / P.O. box / other info right below your picture. 
+
+Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
+Link to your social media connections is changed in the '_config.yml' file.
+This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->

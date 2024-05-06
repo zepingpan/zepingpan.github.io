@@ -3,6 +3,7 @@ group :jekyll_plugins do
     gem 'classifier-reborn'
     gem 'jekyll'
     gem 'jekyll-archives'
+    gem 'jekyll-diagrams'
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
     gem 'jekyll-get-json'
@@ -21,7 +22,6 @@ group :jekyll_plugins do
     gem 'webrick'
 end
 group :other_plugins do
-    gem 'css_parser'
     gem 'feedjira'
     gem 'httparty'
 end
